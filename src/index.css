@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Jost", sans-serif;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f0f0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.container {
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 100%;
+}
+.row {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+
+.btn {
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #212121;
+  font-size: 16px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+}
