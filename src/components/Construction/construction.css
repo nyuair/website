@@ -9,7 +9,6 @@ body {
 body {
 	font-size: 110%;
 	color: #ecf0f1;
-	font-family: 'Source Sans Pro', sans-serif;
 	background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
 	width: 100%;
 	position: absolute;
@@ -35,7 +34,6 @@ body {
 }
 
 .title {
-		font-family: 'Poiret One', cursive;
 	font-size: 4rem;
   margin-bottom: .5rem;
 	width: 100%;
