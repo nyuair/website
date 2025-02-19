@@ -1,12 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Poiret+One|Source+Sans+Pro');
 
-
-html,
-body {
-	height: 100%;
-}
-
-body {
+.mainBody {
+  height: 100%;
 	font-size: 110%;
 	color: #ecf0f1;
 	background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
