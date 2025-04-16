@@ -1,4 +1,4 @@
-import{r,j as o}from"./index-DTq8gVjX.js";const n=()=>(r.useEffect(()=>{const e=document.createElement("style");return e.innerHTML=`
+import{r,j as o}from"./index-DCifP3m7.js";const n=()=>(r.useEffect(()=>{const e=document.createElement("style");return e.innerHTML=`
       nav {
         padding: 4px 0;
         border-bottom: 1px solid #dedee3;

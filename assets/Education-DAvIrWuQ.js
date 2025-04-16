@@ -1,4 +1,4 @@
-import{r as a,j as e}from"./index-DTq8gVjX.js";import{I as t,T as r}from"./index-B-Oc8dJw.js";import"./iconBase-Cj077rPp.js";const d=()=>{a.useEffect(()=>{const n=document.createElement("style");return n.innerHTML=`
+import{r as a,j as e}from"./index-DCifP3m7.js";import{I as t,T as r}from"./index-CUyE27_I.js";import"./iconBase-DpYATckQ.js";const d=()=>{a.useEffect(()=>{const n=document.createElement("style");return n.innerHTML=`
       nav {
         padding: 4px 0;
         border-bottom: 1px solid #dedee3;
