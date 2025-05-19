@@ -1,20 +1,8 @@
 # NYU Embodied AI and Robotics Lab
-Site under constuction
+Website for lab hosting
 
 
-# Instructions to launch and deploy
+# Note:
 
-The website is created using react js and vite. To locally run the website, follow the simple instructions:
+This github repo is only for hosting the website. It does not contain the source code. Please refrain from cloning or copying or modifying to this repo. The source code is in private repo.
 
-- npm run dev
-
-To deploy on the github where is the primary hosting of our website, follow these instructions:
-
-First update the codebase:
-
-- git add .
-- git commit -m "commit message"
-- git push
-
-now build a distribution:
-- 
